@@ -15,8 +15,7 @@ public class SocketConnectPanel extends JPanel {
 
 	SocketClient socket = SocketClient.getInstance();
 
-	String ip = "10.0.0.101";
-//	String ip = "10.0.100.138";
+	String ip = "";
 	int port = 5331;
 
 	TextField tfIp = null;
