@@ -22,4 +22,4 @@ TTA 인증에서 요구하는 5대 연계를 테스트하기 위한 소켓 통�
 <img style="width:75%;" src="https://ozee94.github.io/static/socket-gui-1/product-img.png">
 
 <h4>시연화면</h3>
-<img style="width:75%;" src="https://ozee94.github.io/static/socket-gui-1/video-socket-1.GIF">
+![](https://ozee94.github.io/static/socket-gui-1/video-socket-1.GIF)
