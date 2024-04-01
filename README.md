@@ -2,8 +2,10 @@
 	socket-gui-1
 </h1>
 
+<div style="display: flex; flex-direction: row;">
 <img alt="java" src="https://img.shields.io/badge/Java-3A75B0?style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="java swing" src="https://img.shields.io/badge/Java Swing-3A75B0?style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="java swing" src="https://img.shields.io/badge/Java Swing-3A75B0?style=for-the-badge&logo=Java&logoColor=white"/>	
+</div>
 
 <br />
 <br />
